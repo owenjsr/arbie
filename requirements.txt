@@ -256,7 +256,7 @@ pygments==2.8.1
     # via
     #   eth-brownie
     #   pygments-lexer-solidity
-pyjwt==1.7.1
+pyjwt==2.4.0
     # via
     #   eth-brownie
     #   pythx
